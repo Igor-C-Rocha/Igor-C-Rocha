@@ -3,7 +3,7 @@
 ### Muito prazer, me chamo Igor Cavalcante.
 Se tiver interesse em entrar em contato, aqui está meu email.
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://igorcavalcanterocha2016@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorcavalcanterocha2016@gmail.com)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-C-Rocha&show_icons=true&theme=onedark)
 
