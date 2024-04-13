@@ -1,3 +1,5 @@
+<img width=100% bottom=50px src="https://github.com/Igor-C-Rocha/Igor-C-Rocha/assets/166329589/77bb5d83-d4e3-4b47-9114-2cbae7b37326"/>
+
 ### Muito prazer, me chamo Igor Cavalcante.
 Se tiver interesse em entrar em contato, aqui está meu email.
 
