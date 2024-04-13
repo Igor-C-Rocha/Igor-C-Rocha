@@ -5,6 +5,8 @@ Se tiver interesse em entrar em contato, aqui está meu email.
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-C-Rocha&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-C-Rocha&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
