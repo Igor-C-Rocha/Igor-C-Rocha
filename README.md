@@ -18,3 +18,7 @@ Se tiver interesse em entrar em contato, aqui está meu email.
 Quando estou com tempo livre gosto de desenhar, caso tenha interesse em ver alguns dos desenhos segue o perfil.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lgor._?igsh=eDJnbm9kNDlteXo1)
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
