@@ -1,6 +1,6 @@
 <img width=100% bottom=50px src="https://github.com/Igor-C-Rocha/Igor-C-Rocha/assets/166329589/2176729c-1e7c-430d-9f13-30ab2881a9a4"/>
 
-### Muito prazer, me chamo Igor Cavalcante.
+### Muito prazer, meu nome é Igor Cavalcante.
 Se tiver interesse em entrar em contato, aqui está meu email.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorcavalcanterocha2016@gmail.com)
